@@ -1,4 +1,4 @@
-A repository for [Arthika's user manual](https://github.com/Arthika/User-Manual/wiki/0:-Home,-ToC) in the repository's wiki.
+A repository for [Arthika's user manual](https://github.com/Arthika/User-Manual/wiki/Home) in the repository's wiki.
 
 
 
